@@ -4,13 +4,75 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/maxico/2022/11/26/hello-world/"/>
-      <url>/maxico/2022/11/26/hello-world/</url>
+      <title>Maxico 其他许可协议</title>
+      <link href="/maxico/2022/10/16/UI_license/"/>
+      <url>/maxico/2022/10/16/UI_license/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\maxico\assets\css\APlayer.min.css"><script src="\maxico\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\maxico\assets\css\APlayer.min.css"><script src="\maxico\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note warning"><p>此部分许可以后可能会<strong>有所改变</strong>，请以最新条款为准。</p></div><h1 id="UI部分及闭源声明"><a href="#UI部分及闭源声明" class="headerlink" title="UI部分及闭源声明"></a>UI部分及闭源声明</h1><mark class="label danger">您不能修改和搬运 Maxico，但以下这些内容是被允许的</mark><h2 id="代码部分"><a href="#代码部分" class="headerlink" title="代码部分"></a>代码部分</h2><p>音量调节代码来自 <mark class="label success">Newgen Studio 的 Tuling 开源说明</mark>，您可以直接使用。计算器部分代码来自 <mark class="label info">Oakum studio</mark>，若要使用，<mark class="label warning">您可能需要获得许可</mark>。</p><span id="more"></span><h2 id="UI部分"><a href="#UI部分" class="headerlink" title="UI部分"></a>UI部分</h2><p>应用图标为 <strong>Maxico Ico</strong> <mark class="label danger">不允许使用</mark><br>状态图标来自 <strong>Google Fonts</strong> <mark class="label default">此部分图标开源</mark></p><p>此外其他任何内容，您不得<strong>搬运和使用</strong></p><h2 id="版权"><a href="#版权" class="headerlink" title="版权"></a>版权</h2><mark class="label success">LinChai、梦柏、Maxico Studio、Newgen Studio和Oakum Studio</mark> 享有各自贡献内容的最终解释权<h2 id="侵权"><a href="#侵权" class="headerlink" title="侵权"></a>侵权</h2><p>您不得侵权，若您认为 Maxico 侵犯了您的权益，您可以致邮 <strong><a href="mailto:&#x4c;&#105;&#110;&#67;&#104;&#x61;&#x69;&#x31;&#50;&#x40;&#111;&#117;&#116;&#108;&#111;&#x6f;&#107;&#46;&#x63;&#111;&#109;">&#x4c;&#105;&#110;&#67;&#104;&#x61;&#x69;&#x31;&#50;&#x40;&#111;&#117;&#116;&#108;&#111;&#x6f;&#107;&#46;&#x63;&#111;&#109;</a></strong>，我们将提起重视</p><p>祝您生活愉快</p><div align = right>此致</div><div align = right>Maxico Studio</div>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> Maxico 官方消息 </tag>
+            
+            <tag> Maxico PPT OS </tag>
+            
+            <tag> 公告 </tag>
+            
+            <tag> 入站必读 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Maxico 许可协议</title>
+      <link href="/maxico/2022/10/15/license/"/>
+      <url>/maxico/2022/10/15/license/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\maxico\assets\css\APlayer.min.css"><script src="\maxico\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Maxico-许可协议"><a href="#Maxico-许可协议" class="headerlink" title="Maxico 许可协议"></a>Maxico 许可协议</h1><p><strong>感谢您使用 Maxico</strong><br>本演示文稿需要在 <strong>Windows 8 (非精简和LTSC)</strong> 及更高版本并安装了完整版的 Microsoft Office 2016 及更高版本中运行。</p><div class="note primary"><p>这个演示文稿不含有任何恶意内容</p></div><span id="more"></span><p>Maxico 为闭源，不允许更改和抄袭任何内容</p><p>祝您生活愉快</p><div align = right>此致</div><div align = right>Maxico Studio</div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Maxico 官方消息 </tag>
+            
+            <tag> Maxico PPT OS </tag>
+            
+            <tag> 公告 </tag>
+            
+            <tag> 入站必读 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Maxico 1.0 更新</title>
+      <link href="/maxico/2022/10/15/1.0/"/>
+      <url>/maxico/2022/10/15/1.0/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\maxico\assets\css\APlayer.min.css"><script src="\maxico\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Maxico-1-0-RTM-更新日志"><a href="#Maxico-1-0-RTM-更新日志" class="headerlink" title="Maxico 1.0(RTM)更新日志"></a>Maxico 1.0(RTM)更新日志</h1><ol><li>Maxico 拥有更美观的图形界面</li><li>系统应用:</li></ol><ul><li>媒体 </li><li>设置 <span id="more"></span></li><li>计算器 </li><li>文件<br>当前文本和Store未开放使用，请等待下个版本更新</li></ul><ol start="3"><li>新增手电筒</li><li>已知问题：在按应用界面左上角的应用图标时，部分应用会崩溃<div class="note warning"><p>PPT OS中更新链接当前不可用，请到 Maxico 在山谷生态、蝶梦社区或官网中获取更新</p></div>祝您生活愉快<div align = right>此致</div><div align = right>Maxico Studio</div></li></ol><a class="btn" href="https://pan.quark.cn/s/c2a7591c9fdc#/list/share"><i class="fa fa-download fa-lg fa-fw"></i>夸克云盘</a>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Maxico 官方消息 </tag>
+            
+            <tag> 更新 </tag>
+            
+            <tag> Maxico PPT OS </tag>
+            
+            <tag> 公告 </tag>
+            
+        </tags>
       
     </entry>
     
